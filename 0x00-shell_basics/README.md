@@ -1,1 +1,1 @@
-contains code used to display contents list of pwd
+Read me for shell basics
